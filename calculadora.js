@@ -5,3 +5,7 @@ function lady() {}
 funtion stiven (){}
 
 function victor () {}
+
+function julian(){
+    console.log("Soy Julian");
+}
